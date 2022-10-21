@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "todo-list-a4282",
+    "usermanagementapp": "usermanagementapp-5d8bc",
+    "development": "usermanagementapp-5d8bc",
+    "depelopment": "usermanagementapp-5d8bc"
+  },
+  "targets": {}
+}
